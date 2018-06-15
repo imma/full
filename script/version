@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+function version {
+  local shome="$(cd -P -- "${BASH_SOURCE%/*}/.." && pwd -P)"
+  source "$shome/script/profile"
+
+  local ver_full="0.0.1"
+  jq -n --arg full "$ver_full" '{full: $full}'
+}
+
+version "$@"
