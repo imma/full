@@ -51,6 +51,7 @@
       "cookiecutter"
     ],
     [
+      "ftl",
       "fogg",
       "fogg-tf",
       "imma-tf"
