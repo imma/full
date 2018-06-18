@@ -16,10 +16,7 @@
       "cloudflare"
     ],
     [
-      "docker",
-      "nomad",
-      "packer",
-      "anchore"
+      "nomad"
     ],
     [
       "monitor",
@@ -37,18 +34,11 @@
       "rat"
     ],
     [
-      "ftl",
-      "fogg",
-      "fogg-tf",
-      "imma-tf"
+      "ftl"
     ],
     [
       "bit",
       "usr"
-    ],
-    [
-      "vagrant",
-      "virtualbox"
     ],
     [
       "example",
