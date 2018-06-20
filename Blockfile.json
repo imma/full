@@ -13,7 +13,8 @@
       "namerd",
       "fabio",
       "openresty",
-      "cloudflare"
+      "cloudflare",
+      "squid"
     ],
     [
       "nomad"
