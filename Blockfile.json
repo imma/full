@@ -14,7 +14,8 @@
       "fabio",
       "openresty",
       "cloudflare",
-      "squid"
+      "squid",
+      "nexus"
     ],
     [
       "nomad"
