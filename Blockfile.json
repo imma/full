@@ -45,6 +45,7 @@
     [
       "example",
       "nothing",
+      "grpc",
       "app"
     ]
   ],
