@@ -10,10 +10,7 @@
       "consul-agent",
       "consul-server",
       "etcd",
-      "linkerd",
-      "namerd",
       "fabio",
-      "openresty",
       "cloudflare",
       "squid",
       "nexus"
