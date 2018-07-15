@@ -19,7 +19,7 @@
       "nomad"
     ],
     [
-      "monitor",
+      "netdata",
       "crypto"
     ],
     [
@@ -29,20 +29,14 @@
       "docs"
     ],
     [
-      "lock",
-      "nat"
+      "lock"
     ],
     [
-      "ftl"
-    ],
-    [
-      "bit",
       "usr"
     ],
     [
       "example",
       "nothing",
-      "grpc",
       "app"
     ]
   ],
